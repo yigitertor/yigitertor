@@ -1,4 +1,3 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/011/260/238/original/html5-css3-js-icon-set-web-development-logo-icon-set-of-html-css-and-javascript-programming-symbol-free-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Yiğit Ertör</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey,Antalya</h3>
