@@ -1,14 +1,14 @@
-
+ ![MasterHead](https://github.com/yigitertor/yigitertor/assets/61631906/d9353ddb-8106-4cbd-8815-c42e5bc5f654)
 <h1 align="center">Hi 👋, I'm Yiğit Ertör</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey,Antalya</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 - 🌱 I’m currently learning **Javascript and React**
 
 - 📫 How to reach me **yigitertor@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yiğit ertör" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit ertör" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yi%C4%9Fit-ert%C3%B6r-521a7a20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit ertör" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
