@@ -1,9 +1,9 @@
- ![MasterHead](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
+ ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Yiğit Ertör</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey,Antalya</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning ** React JS **
 
 - 📫 How to reach me **yigitertor@hotmail.com**
 
