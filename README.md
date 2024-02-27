@@ -1,4 +1,4 @@
- ![MasterHead](https://creatorspace.imgix.net/users/cldjyzkui16idqr0zttdxaams/GkBba02g75guzgjk-1500x500%2520(1).jpeg?w=750&h=750)
+ ![MasterHead]([https://creatorspace.imgix.net/users/cldjyzkui16idqr0zttdxaams/GkBba02g75guzgjk-1500x500%2520(1).jpeg?w=750&h=750](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnextglabs&psig=AOvVaw11Qw_QWEOX6_PJp8KYv_Re&ust=1709129870883000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi-rYjby4QDFQAAAAAdAAAAABAS))
 <h1 align="center">Hi 👋, I'm Yiğit Ertör</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey,Antalya</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
