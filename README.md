@@ -1,4 +1,4 @@
- ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+ ![MasterHead](https://creatorspace.imgix.net/users/cldjyzkui16idqr0zttdxaams/GkBba02g75guzgjk-1500x500%2520(1).jpeg?w=750&h=750)
 <h1 align="center">Hi 👋, I'm Yiğit Ertör</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey,Antalya</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
